@@ -1,0 +1,8 @@
+1
+1
+1 if it is present in the series :1
+1 if it is a palindrome number :0
+enter a number to check fibo :8
+1 if it is present in the series :1
+enter a number to chech it is pslindrome or not  :434
+1 if it is a palindrome number :1
